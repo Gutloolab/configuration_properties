@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: SchoolApp
-
   datasource:
     url: jdbc:mysql://localhost:3306/schoolapp_db?createDatabaseIfNotExist=true
     username: root
